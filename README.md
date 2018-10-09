@@ -16,10 +16,8 @@ $ npm install
 modify personal information and hashtags in ./config/config.js
 
 ```
-{
-  username: 'XXX',
-  password: 'XXX'
-},
+username: 'XXX',
+password: 'XXX',
 
 hashtags: ['XXX', 'XXX']
 ```
