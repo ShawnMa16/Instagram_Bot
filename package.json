@@ -1,0 +1,17 @@
+{
+  "name": "Instagram-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pouchdb": "^7.0.0",
+    "puppeteer": "^1.9.0",
+    "shuffle-array": "^1.0.1"
+  }
+}
