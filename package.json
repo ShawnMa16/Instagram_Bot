@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "pouchdb": "^7.0.0",
-    "puppeteer": "^1.9.0",
+    "puppeteer": "^1.13.0",
     "shuffle-array": "^1.0.1"
   }
 }
